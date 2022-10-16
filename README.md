@@ -1,2 +1,2 @@
-# polygon-mobile-dapp
-Polygonを活用したモバイルアプリのサンプル
+# todo-dapp-contract
+todoアプリに使ったスマートコントラクトのサンプル
